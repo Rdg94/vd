@@ -14,7 +14,7 @@ body {
   background-position: center center;
   padding: 20px 100px;
   transform: rotateZ(-5deg);
-  box-shadow: 1px 15px 20px 0px rgba(0, 0, 0, 0.5);
+  box-shadow: 1px 25px 30px 0px rgba(0, 0, 0, 0.7);
   position: absolute;
 }
 .paper.heart {
@@ -59,7 +59,7 @@ img {
 }
 p {
   font-family: "Zeyada";
-  font-size: 50px;
+  font-size: 70px;
   color: rgb(0, 0, 100);
   opacity: 0.75;
   user-select: none;
