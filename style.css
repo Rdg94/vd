@@ -58,9 +58,9 @@ img {
   /*   filter: hue-rotate(200deg); */
 }
 p {
-  font-family: "Zeyada";
-  font-size: 70px;
+  font-family: "Fuzzy Bubbles", sans-serif;
+  font-size: 50px;
   color: rgb(0, 0, 100);
-  opacity: 1;
+  opacity: 0.6;
   user-select: none;
 }
